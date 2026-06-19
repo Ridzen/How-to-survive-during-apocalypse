@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bc808068f0e3e953","x":-460,"y":-30,"width":250,"height":60,"type":"text","text":"[[Начало игры]]"},
+		{"id":"7fdded6fc63041ec","x":-160,"y":-30,"width":250,"height":60,"type":"text","text":"[[Пролог]]"},
+		{"id":"ce65117218e69198","x":140,"y":-30,"width":250,"height":60,"type":"text","text":"Первое появление"}
+	],
+	"edges":[
+		{"id":"f8546c641c84be14","fromNode":"7fdded6fc63041ec","fromSide":"right","toNode":"ce65117218e69198","toSide":"left"},
+		{"id":"472b2346cc005e0b","fromNode":"bc808068f0e3e953","fromSide":"right","toNode":"7fdded6fc63041ec","toSide":"left"}
+	]
+}
