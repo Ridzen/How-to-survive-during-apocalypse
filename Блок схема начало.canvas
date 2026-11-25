@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"bc808068f0e3e953","x":-460,"y":-30,"width":250,"height":60,"type":"text","text":"[[Начало игры]]"},
-		{"id":"7fdded6fc63041ec","x":-160,"y":-30,"width":250,"height":60,"type":"text","text":"[[Пролог]]"},
-		{"id":"ce65117218e69198","x":140,"y":-30,"width":250,"height":60,"type":"text","text":"Первое появление"}
+		{"id":"bc808068f0e3e953","type":"text","text":"[[Начало игры]]","x":-460,"y":-30,"width":250,"height":60},
+		{"id":"7fdded6fc63041ec","type":"text","text":"[[Пролог]]","x":-160,"y":-30,"width":250,"height":60},
+		{"id":"ce65117218e69198","type":"text","text":"Первое появление","x":160,"y":-30,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"f8546c641c84be14","fromNode":"7fdded6fc63041ec","fromSide":"right","toNode":"ce65117218e69198","toSide":"left"},
